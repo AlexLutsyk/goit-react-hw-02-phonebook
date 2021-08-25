@@ -20,7 +20,7 @@ class ContactForm extends Component {
     });
   };
 
-  hendleSubmit = e => {
+  handleSubmit = e => {
     e.preventDefault();
 
     const { onSubmit } = this.props;
@@ -32,7 +32,7 @@ class ContactForm extends Component {
   render() {
     const { name, number } = this.state;
     return (
-      <form className={s.form} onSubmit={this.hendleSubmit}>
+      <form className={s.form} onSubmit={this.handleSubmit}>
         <label>
           Name
           <input
@@ -49,7 +49,7 @@ class ContactForm extends Component {
         <label>
           Number
           <input
-            type="tel"
+            type="text"
             name="number"
             value={number}
             pattern="\+?\d{1,4}?[-.\s]?\(?\d{1,3}?\)?[-.\s]?\d{1,4}[-.\s]?\d{1,4}[-.\s]?\d{1,9}"
