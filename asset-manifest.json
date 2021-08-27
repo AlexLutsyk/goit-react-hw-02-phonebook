@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.bfd71f40.chunk.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.dc9ddc5c.chunk.js",
+    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.dc9ddc5c.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-phonebook/static/js/runtime-main.e3d6aac2.js",
+    "runtime-main.js.map": "/goit-react-hw-02-phonebook/static/js/runtime-main.e3d6aac2.js.map",
+    "static/js/2.c73faceb.chunk.js": "/goit-react-hw-02-phonebook/static/js/2.c73faceb.chunk.js",
+    "static/js/2.c73faceb.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/2.c73faceb.chunk.js.map",
+    "index.html": "/goit-react-hw-02-phonebook/index.html",
+    "static/css/main.bfd71f40.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.bfd71f40.chunk.css.map",
+    "static/js/2.c73faceb.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook/static/js/2.c73faceb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/goit-react-hw-02-phonebook/static/media/PinClipart.com_phone-images-clip-art_360232.6e4b35f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3d6aac2.js",
+    "static/js/2.c73faceb.chunk.js",
+    "static/css/main.bfd71f40.chunk.css",
+    "static/js/main.dc9ddc5c.chunk.js"
+  ]
+}
